@@ -1,0 +1,32 @@
+ .backgr{
+    background: linear-gradient(135deg,rgb(81, 196, 216),rgb(21, 79, 141));
+}
+.white{
+    background-color: #fff;
+}
+.purple, .backin{
+    background-color: rgb(23, 57, 192);
+    color: white;
+}
+.general{
+    color: rgb(49, 206, 241);
+    margin-bottom: 10px;
+    font-size: 20px;
+}
+.bor{
+    border: none;
+    border-bottom: 1px solid rgb(210,210,210);
+    margin: 13px;
+   
+}
+.form-left{
+    width:80%;
+    margin: 36px 0 0 46px ;
+}
+
+.form-right::placeholder{
+    color: white;
+}
+.form-left::placeholder { /* Chrome, Firefox, Opera, Safari 10.1+ */
+    color: rgb(225, 222, 222);
+}

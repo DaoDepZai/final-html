@@ -1,0 +1,80 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.rtl{
+    direction: rtl;
+}
+.red{
+    color: red;
+}
+.grey{
+    color: grey;
+}
+.bg-grey{
+    background:rgb(231, 227, 227);
+}
+.white{
+    color: white;
+}
+.back-travel-us{
+    background-image: url(/img/london2.jpg)
+}
+.height-travel{
+    padding-top: 26rem;
+}
+.input-travel{
+    position: relative;
+    width: 75%;
+    top: -15rem;
+}
+.nav-travel{
+    height: 51px;
+    display: flex;
+    width: 100%;
+    background: #000;
+}
+.nav-travel-but{
+    background: #000;
+    color: #fff;
+    padding: 12px 24px;
+
+}
+.nav-travel-but:hover{
+    background: red
+}
+.detail-nav{
+    background: #fff;
+    padding: 36px 19px 25px;
+}
+.but-travel{
+    background:grey;
+    border-radius: 0%;
+    margin-top: 12px;
+    border: none;
+    padding:12px ;
+
+}
+
+.text-on-pic{
+    position: relative;
+    color: #fff;
+    top: -1.8rem;
+    right: -0.5rem;
+}
+.form-best{
+    background: #6c6969;
+    color: #fff;;
+}
+.but-get{
+    background: red;
+    border: none;
+    border-radius: 0;
+    margin-top: 1rem;
+    width: 10%;
+}
+.height-input-contact{
+    height:4rem;
+    
+}

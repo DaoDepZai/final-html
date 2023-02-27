@@ -1,0 +1,61 @@
+*{
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.flex{
+    display: flex!important;
+}
+.right{
+    float: right;
+}
+.left{
+    float: left;
+}
+input{
+    margin:5px 0;
+}
+.pad-left-12{
+    padding-left: 12px;
+}
+.posi-icon{
+     margin-top: 12px!important;
+    border-left: 1px solid;
+    margin-bottom: 12px;
+    border-left: 1px solid rgb(219, 219, 219);
+    color: rgb(165, 165, 165);
+    margin-left: 16px!important;
+}
+.bor{
+    border: 1px solid rgb(219, 219, 219);
+    margin:10px 0 0 0!important;
+    border-radius: 3px;
+    line-height: 15px;
+}
+.nav{
+    font-size: 12px;
+}
+.title{
+    font-weight: 500;
+}
+.center-line{
+    margin-top: auto;
+    margin-bottom: auto;
+}
+.login{
+    color: rgb(76, 183, 200);
+}
+.text-select{
+    font-size: 12px;
+    font-weight: 400;
+    margin: 2px 0 2px 10px;
+}
+.select-form{
+    border: none;
+    -webkit-appearance: none;
+    margin: 0 0 2px 10px;
+}
+.continue{
+
+}

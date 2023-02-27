@@ -1,0 +1,40 @@
+.rtl{
+    direction: rtl;
+}
+.fixed{
+    position: fixed;
+}
+.h-head{
+    height:12rem;
+}
+.pad-sec{
+    padding-top: 9rem;
+}
+.min-wid{
+    min-width: 82.3rem;
+}
+.pagination li a{
+    color: #000;
+}
+.flex{
+    display: flex;
+}
+.center-nav{
+    margin-left: 42%;
+}
+.center-pic{
+    margin-left: 20%;
+}
+.page-link:hover{
+    background-color: #000!important;
+    color: #fff!important;
+    border:none
+}
+.about-me-mb{
+    padding-bottom: 7rem;
+    border-bottom: 1px solid rgb(163, 163, 163);
+}
+.blog-pb{
+    padding-bottom: 5px;
+    border-bottom: 1px solid rgb(163, 163, 163);
+}

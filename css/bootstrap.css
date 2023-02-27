@@ -1,0 +1,12 @@
+.back-weather{
+background-image:url(/img/skyhour_fallback.jpg);
+background-repeat: no-repeat;
+color:#fff
+}
+.back-col{
+    background-color: rgba(48, 77, 116, 0.5);
+    border-radius: 3px;
+}
+.mb{
+   margin: 15px 0 15px 15px;
+}

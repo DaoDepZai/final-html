@@ -1,0 +1,48 @@
+.box{
+    float: none;
+    width:1200px;
+    margin: 0 auto;
+    color: #fff;
+
+}
+.box-child{
+    float: left;
+    width:25%;
+}
+.red{
+    background-color:red
+}
+.green{
+    background-color:green;
+}
+.blue{
+    background-color: blue;
+}
+.pink{
+    background-color: pink;
+}
+
+@media screen and (min-width:768px){
+    .box{
+        width:750px;
+    }
+    .box-child{
+        width:50%
+    }
+}
+@media screen  and (min-width:992px) {
+    .box{
+        width:900px
+    }
+    .box-child{
+        width:33.333%
+    }
+}
+@media screen and (min-width:1200px) {
+    .box{
+        width:1200px;
+    }
+    .box-child{
+         width:25%;
+    }
+}
